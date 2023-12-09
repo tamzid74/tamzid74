@@ -1,4 +1,5 @@
 <img src="https://raw.githubusercontent.com/tamzid74/tamzid74/main/image/32993445_774418072505-%5BConverted%5D.jpg" />
+<p align='left'>![](https://komarev.com/ghpvc/?username=tamzid74&label=PROFILE+VIEWS)</p>
 
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/tamzid74/tamzid74/main/image/hi.gif" width="50px" height="50px">, I'm Kh Tamzid Al Mamun <br></h1>
 
