@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on Web Development
 - 📫 How to reach me: tamzidal74@gmail.com
 ## :chart_with_upwards_trend: Current Stats
-<p align="center"><a href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=tamzid74&theme=transparent&hide_border=true" alt="tamzid streaks-stats" /></a></p>
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tamzid74&theme=transparent&hide_border=true" alt="GitHub Streak" /></a></p>
 
 
 
