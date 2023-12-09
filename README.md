@@ -4,6 +4,8 @@
 
 🌐 Aspiring MERN Stack Developer | Currently navigating the realms of computer science engineering | Channeling efforts into mastering React for dynamic UIs and diving deep into backend development with MongoDB, Express.js, and Node.js | Eagerly embracing the journey of full-stack web development! 💻✨ Focused on continuous learning in React and backend technologies, with a commitment to contribute and shape the future of web development.🚀
 
+## :writing_hand: Current Overview
+
 - 🌱 I’m currently learning- More about React, Mongodb, Express js, Next js, Mongoose
 - 👯 I’m looking- To collaborate on open source project
 - 🤔 I’m trying - To know more about backend 
