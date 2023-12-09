@@ -10,9 +10,7 @@
 - 📫 How to reach me: tamzidal74@gmail.com
 
 ## :chart_with_upwards_trend: Current Stats
-
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tamzid74&theme=transparent&hide_border=true" alt="GitHub Streak" /></a></p>
-
 
 ![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tamzid74&theme=transparent)
 
@@ -22,5 +20,7 @@
     <img src="https://skillicons.dev/icons?i=react,mongodb,nodejs,html,css,bootstrap,tailwind,expressjs,js,firebase" />
   </a>
 </p>
+
+
 
  
