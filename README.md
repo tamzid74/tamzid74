@@ -13,7 +13,7 @@
 
 ## :chart_with_upwards_trend: Current Stats
 
-<p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tamzid74&theme=transparent&hide_border=true" alt="GitHub Streak" /></a></p>
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tamzid74&theme=transparent" alt="GitHub Streak" /></a></p>
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tamzid74&theme=transparent" alt="GitHub Streak" /></a></p>
 
 ## :computer: Technologies that I know
