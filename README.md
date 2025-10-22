@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/tamzid74/tamzid74/main/image/32993445_774418072505-%5BConverted%5D.jpg" />
+<!-- <img src="https://raw.githubusercontent.com/tamzid74/tamzid74/main/image/32993445_774418072505-%5BConverted%5D.jpg" /> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamzid74&label=Profile%20views&color=0e75b6&style=plastic" alt="tamzid74" /> </p>
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/tamzid74/tamzid74/main/image/hi.gif" width="50px" height="50px">, I'm Kh Tamzid Al Mamun <br></h1>
 
@@ -6,9 +6,9 @@
 
 ## :writing_hand: Current Overview
 
-- 🌱 I’m currently learning- More about React, Mongodb, Express js, Next js, Mongoose
-- 👯 I’m looking- To collaborate on open source project
-- 🤔 I’m trying - To know more about backend
+- 🌱 I’m currently learning- More about React, MongoDB, Express.js, Next.js, Mongoose
+- 👯 I’m looking to collaborate on an open source project
+- 🤔 I’m trying to know more about backend
 - 📫 How to reach me: tamzidal74@gmail.com
 
 ## :chart_with_upwards_trend: Current Stats
